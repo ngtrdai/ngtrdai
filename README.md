@@ -23,8 +23,10 @@
   <a href="https://github.com/ngtrdai" target="_blank">
     <img align="center" alt="ngtrdai | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
-  
   <a href="https://www.youtube.com/c/NGUYENDAI/videos" target="_blank">
     <img align="center" alt="ngtrdai | Youtube" width="32px" src="https://icon-library.com/images/youtube-video-icon-png/youtube-video-icon-png-29.jpg" />
   </a> &nbsp;&nbsp;
-<p> 
+<p>
+<div align="center">
+  <img align="center" alt="ngtrdai | Youtube" width="300px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
+  </div>
