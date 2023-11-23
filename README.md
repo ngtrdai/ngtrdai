@@ -1,10 +1,4 @@
-## <div align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="3%"/>, My fullname is Nguyễn Trọng Đại</div>
-
-- 🔭 I’m currently 4rd year student at [**HCMC University of Technology and Education**](https://hcmute.edu.vn/)
-
-- 📚 My major is **Mechatronic Engineering**
-
-- 🌱 I'm interested **PHP, Python, C#, C/C++,...**
+## <div align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="3%"/></div>
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="5%"> For More Information, Please Check Out or Connect Me Via
 <p align="center">
